@@ -7,3 +7,6 @@
 
 ## Relational Schema Diagram
 ![](images/diagram.png "Relational Scheme")
+
+- FK = Foreign Key
+- O = Optional
