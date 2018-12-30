@@ -1,6 +1,7 @@
 # SpaceTrackerDatabase
-Personal project to create a database that tracks space flights with details. 
+- Personal project to create a database that tracks space flights with details. 
+- Takes into account reusability
+- Normalised
 
-Takes into account reusability
-
+## Relational Schema Diagram
 ![](images/diagram.png "Relational Scheme")
